@@ -16,3 +16,5 @@ steps:
         "push",
         "southamerica-west1-docker.pkg.dev/nest-ms-fernando-herrera/nest-image-registry-fernando-herrera/auth-ms",
       ]
+options:
+  logging: CLOUD_LOGGING_ONLY
